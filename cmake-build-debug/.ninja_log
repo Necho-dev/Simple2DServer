@@ -1,9 +1,0 @@
-# ninja log v5
-4	738	7208679159476344	Simple2DServer_autogen/timestamp	7a3d29152bb1773b
-4	738	7208679159476344	Simple2DServer_autogen/mocs_compilation.cpp	7a3d29152bb1773b
-4	738	7208679159476344	D:/DevelopPros/CLionProjects/Simple2DServer/cmake-build-debug/Simple2DServer_autogen/timestamp	7a3d29152bb1773b
-4	738	7208679159476344	D:/DevelopPros/CLionProjects/Simple2DServer/cmake-build-debug/Simple2DServer_autogen/mocs_compilation.cpp	7a3d29152bb1773b
-747	3496	7208679188435207	CMakeFiles/Simple2DServer.dir/main.cpp.obj	a23b88406fbf5718
-739	3539	7208679188866713	CMakeFiles/Simple2DServer.dir/Simple2DServer_autogen/mocs_compilation.cpp.obj	cfe585d2d9d9349c
-743	3918	7208679192626663	CMakeFiles/Simple2DServer.dir/lib/Server.cpp.obj	35268e27c7ddecc
-3918	4730	7208679197615377	Simple2DServer.exe	a1baa1e64c377d1a
